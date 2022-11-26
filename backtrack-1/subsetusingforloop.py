@@ -1,3 +1,5 @@
+#Time_Complexity: O(n)
+#Space_Complexity: O(1)
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         
